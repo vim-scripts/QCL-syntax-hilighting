@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3418
+
+This file provides syntax hilighting for Quantum Computing Language.
+
+It includes hilighting for the built in operators and functions.
